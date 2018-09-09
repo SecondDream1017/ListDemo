@@ -1,6 +1,6 @@
 package com.atguigu.model;
 
-public class Student {
+public class Student{
 
 	private String name;
 	private String age;
